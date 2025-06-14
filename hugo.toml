@@ -1,0 +1,4 @@
+baseURL = 'https://blog.shrlab.com/'
+languageCode = 'en-us'
+title = 'Sams Sporadic Segments'
+theme = 'ananke'
