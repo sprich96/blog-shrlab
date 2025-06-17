@@ -1,7 +1,8 @@
-baseURL = "blog-shrlab.sam-1bf.workers.dev"
+baseURL = "https://shrlab.com/"
 languageCode = "us"
 title = "Sams Sporadic Segments"
 relativeURLs = true
+toc: true
 theme = "ananke"
 
 [module]
