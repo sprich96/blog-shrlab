@@ -1,4 +1,4 @@
-baseURL = "https://shrlab.com/"
+baseURL = "blog-shrlab.sam-1bf.workers.dev"
 languageCode = "us"
 title = "Sams Sporadic Segments"
 relativeURLs = true
