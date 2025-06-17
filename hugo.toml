@@ -7,7 +7,7 @@ theme = "ananke"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-pagination.pagerSize = "5"
+#pagination.pagerSize = "5"
 googleAnalytics = ""
 enableRobotsTXT = true
 
