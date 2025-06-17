@@ -1,4 +1,4 @@
-baseURL = 'https://blog.shrlab.com/'
+baseURL = 'https://shrlab.com/'
 languageCode = 'en-us'
 title = 'Sams Sporadic Segments'
 theme = 'ananke'
