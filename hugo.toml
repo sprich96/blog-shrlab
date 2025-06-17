@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://shrlab.com/'
 languageCode = 'en-us'
 title = 'Sams Sporadic Segments'
 
