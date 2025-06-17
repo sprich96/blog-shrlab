@@ -1,13 +1,13 @@
-baseURL = 'https://shrlab.com/'
-languageCode = 'en-us'
-title = 'Sams Sporadic Segments'
+baseURL = "https://shrlab.com/"
+languageCode = "en-us"
+title = "Sams Sporadic Segments"
 
-theme = 'ananke'
+theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+pagination.pagerSize = "5"
 googleAnalytics = ""
 enableRobotsTXT = true
 
