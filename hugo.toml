@@ -2,12 +2,10 @@ baseURL = "https://shrlab.com/"
 languageCode = "us"
 title = "Sams Sporadic Segments"
 relativeURLs = true
-theme = ["https://github.com/theNewDynamic/gohugo-theme-ananke"]
 
-
-enableGitInfo = true
-
-# disableKinds = ["taxonomy", "taxonomyTerm"]
-
-[outputs]
-  home = ["HTML", "RSS","JSON"]
+[module]
+[[module.imports]]
+disable = false
+ignoreConfig = false
+ignoreImports = false
+path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
