@@ -2,7 +2,7 @@ baseURL = "https://shrlab.com/"
 languageCode = "us"
 title = "Sams Sporadic Segments"
 relativeURLs = true
-toc: true
+toc = true
 theme = "ananke"
 
 [module]
