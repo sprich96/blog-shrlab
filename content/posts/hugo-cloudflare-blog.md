@@ -74,14 +74,14 @@ Push this to your repository and continue on CF Dashboard: https://dsah.cloudfla
 ## 5. Create Cloudflare Workers/Pages Configuration
 
 On the left-hand sidebar, expand **Compute (Workers)** and click **Workers & Pages**
-![cf_menu](images/menu_cf.png)
+![cf_menu](https://shrlab.com/images/menu_cf.png)
 
 Click the blue 'Create' button 
-![create_button](images/create_button_cf.png)
+![create_button](https://shrlab.com/images/create_button_cf.png)
 
 Click 'Get Started' next to **Import a Repository**
-![import_repo](images/import_repo_cf.png)
+![import_repo](https://shrlab.com/images/import_repo_cf.png)
 
 Click '+ New GitHub Connection' or use an existing one, and click the corresponding repository
-![import_repo2](images/import_repo_cf2.png)
+![import_repo2](https://shrlab.com/images/import_repo_cf2.png)
 
