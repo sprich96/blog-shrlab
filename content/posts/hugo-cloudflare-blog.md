@@ -1,6 +1,6 @@
 +++
 date = '2025-06-17T14:24:12-04:00'
-draft = true
+draft = false
 title = 'Create Cloudflare Hugo Blog'
 +++
 
